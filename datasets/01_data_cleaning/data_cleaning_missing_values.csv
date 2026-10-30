@@ -1,0 +1,11 @@
+Student_ID,Study_Hours,Attendance_Percent,Assignment_Score,Result
+101,2.0,80.0,65.0,Pass
+102,3.5,90.0,78.0,Pass
+103,,75.0,72.0,Pass
+104,5.0,,85.0,Pass
+105,4.0,88.0,,Pass
+106,,70.0,60.0,Fail
+107,6.0,95.0,91.0,Pass
+108,1.5,,55.0,Fail
+109,3.0,85.0,,Pass
+110,4.5,92.0,82.0,Pass
